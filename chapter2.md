@@ -34,9 +34,16 @@ $ source polo.sh
 
 ### anwser:
 
-### question 5
+
+### question 4
 
 ### answer:
 ``` bash 
-$ find . -type d | xargs ls -lt
+$ find . -name "*.html" -type d | convert "*.html" *.zip
+```
+### question 5
+
+### answer: 
+``` bash 
+$ find . -type f | xargs ls -lt
 ```
