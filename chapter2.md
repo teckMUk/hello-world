@@ -39,7 +39,7 @@ $ source polo.sh
 
 ### answer:
 ``` bash 
-$ find . -name "*.html" -type d | convert "*.html" *.zip
+$ find . -name "*.html" -type d | convert "*.html" "*.zip"
 ```
 ### question 5
 
