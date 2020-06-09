@@ -1,4 +1,4 @@
-q# chapter 1 the shell
+# chapter 1 the shell
 ### question 1 Create a new directory called missing under /tmp.
  
 ### answers:
